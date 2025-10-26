@@ -67,6 +67,10 @@ Random Forest achieved the best performance across all metrics. The most importa
 4. RPDE - 0.10
 5. DFA - 0.09
 
+## Images 
+<img width="1137" height="845" alt="image" src="https://github.com/user-attachments/assets/54ab4218-d044-4f45-88a1-798523f21f86" />
+
+
 ## Discussion
 
 The results are promising! Random Forest's high accuracy (94.9%) suggests that voice analysis could be a viable screening tool for Parkinson's disease. The most discriminative features align with clinical knowledge - jitter and shimmer are known indicators of voice disorders.
@@ -79,7 +83,7 @@ However, there are limitations:
 
 ## Future Work
 
-- Collect larger, more diverse dataset
+- Collect a larger, more diverse dataset
 - Include demographic features
 - Try deep learning approaches
 - Implement real-time voice analysis
