@@ -149,7 +149,7 @@ These tools were invaluable for learning and implementing the project, but all a
 
 Thanks to:
 - UCI ML Repository for the dataset
-- My ML professor for guidance
+- My Professor(Chatgpt, grok, claude) for guidance
 - ChatGPT, Grok, and Copilot for being helpful coding buddies
 - The open-source community for amazing tools
 - Anyone who reads this and doesn't judge my code too harshly
